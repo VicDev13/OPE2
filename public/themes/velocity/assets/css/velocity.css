@@ -559,9 +559,9 @@
 .btn-add-to-cart {
     padding: 3px 14px !important;
     border-radius: 0 !important;
-    color: #fff !important;
-    border-color: #26a37c !important;
-    background-color: #26a37c !important;
+    color: rgb(0, 0, 0) !important;
+    border-color: #000000 !important;
+    background-color: #ffffff !important;
 }
 .btn-add-to-cart.large {
     padding: 12px 18px;
@@ -917,7 +917,7 @@
 }
 .view-mode .rango-view-grid-container.active {
     color: #fff;
-    background-color: #26a37c;
+    background-color: #fd8403;
 }
 .view-mode .rango-view-list-container {
     width: 36px;
@@ -929,7 +929,7 @@
 }
 .view-mode .rango-view-list-container.active {
     color: #fff;
-    background-color: #26a37c;
+    background-color: #fd8403;
 }
 .modal-container {
     left: 50%;
@@ -3671,7 +3671,8 @@ header #search-form > :focus {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
-    background-color: #4d7ea8;
+    background-color: #de4313;
+    background-image: linear-gradient(90deg, #de4313 10%, #fec163 100%);
 }
 .main-content-wrapper .content-list ul li a {
     display: block;
@@ -3685,7 +3686,18 @@ header #search-form > :focus {
     text-decoration: none;
 }
 .main-content-wrapper .content-list ul li:hover {
-    background-color: #42719a;
+    background-color: #fec163;
+}
+.main-content-wrapper .content-list ul li:hover a {
+    color: #000000;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 8px 15px;
+    letter-spacing: 0;
+    position: relative;
+    text-decoration: none;
 }
 .velocity-divide-page {
     position: relative;
@@ -3878,7 +3890,8 @@ body:after {
 .footer .footer-content .newsletter-subscription {
     color: #fff;
     padding: 10px 130px;
-    background-color: #4d7ea8;
+    background-color: #fec163;
+    background-image: linear-gradient(90deg, #fec163 10%, #de4313 100%);
 }
 .footer
     .footer-content
@@ -3962,11 +3975,11 @@ body:after {
 }
 .footer .footer-content > .row {
     padding: 60px 130px;
-    background: #30383f;
+    background-color: #fec163;
+    background-image: linear-gradient(90deg, #fec163 10%, #de4313 100%);
 }
 .footer .footer-content > .row .logo {
-    width: auto;
-    max-height: 40px;
+    width: 150px;
 }
 .footer .footer-content > .row .footer-ct-content > div {
     margin: 0;
@@ -4740,8 +4753,8 @@ body:after {
     .dropdown-container
     button:hover,
 .theme-btn:hover {
-    border-color: #247959 !important;
-    background-color: #247959 !important;
+    border-color: #fd8403 !important;
+    background-color: #fd8403 !important;
 }
 .account-content
     .account-layout
@@ -7492,7 +7505,7 @@ body {
     border-color: #f05153;
 }
 header .logo {
-    height: 50px;
+    height: 48px;
     padding-left: 10px;
 }
 header #search-form {
@@ -7570,7 +7583,7 @@ header #search-form .quantity input:focus {
 header #search-form #header-search-icon {
     min-width: 40px;
     border-radius: 0 2px 2px 0;
-    background-color: #26a37c;
+    background-color: #fd8403;
 }
 header #search-form #header-search-icon i {
     color: #fff;
