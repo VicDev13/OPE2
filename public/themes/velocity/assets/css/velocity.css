@@ -3942,9 +3942,10 @@ body:after {
     .newsletter-wrapper
     .social-icons
     .within-circle {
-    background: #4d7ea8;
+    /*background: #de4313;
+    background-image: linear-gradient(90deg, #de4313 10%, #fec163 100%);*/
     margin-right: 2px;
-    border: 1px solid hsla(0, 0%, 100%, 0.52);
+    border: 1px solid hsla(0, 0%, 0%, 0.52);
 }
 .footer
     .footer-content
@@ -3953,6 +3954,8 @@ body:after {
     .social-icons
     .within-circle:hover {
     opacity: 0.5;
+    background: #de4313;
+    /*background-image: linear-gradient(90deg, #de4313 10%, #fec163 100%);*/
 }
 .footer
     .footer-content
@@ -4402,7 +4405,7 @@ body:after {
     vertical-align: top;
     border: 1px solid transparent;
     color: #fff !important;
-    background-color: #26a37c !important;
+    background-color: #de4313 !important;
 }
 .account-content
     .account-layout
@@ -4546,7 +4549,7 @@ body:after {
     .dropdown-container
     button.page-item,
 .theme-btn.light {
-    color: #26a37c !important;
+    color: #de4313 !important;
     background-color: #fff !important;
     -webkit-box-shadow: 0 1px 0 0 #cfcfcf;
     box-shadow: 0 1px 0 0 #cfcfcf;
