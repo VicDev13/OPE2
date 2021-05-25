@@ -868,6 +868,214 @@
             "install-path": "../cagartner/bagisto-brazilcustomer"
         },
         {
+            "name": "cagartner/bagisto-correios",
+            "version": "0.2.1",
+            "version_normalized": "0.2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cagartner/bagisto-correios.git",
+                "reference": "2b817dc56b1f26390f381293a345c7bea190e3ad"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cagartner/bagisto-correios/zipball/2b817dc56b1f26390f381293a345c7bea190e3ad",
+                "reference": "2b817dc56b1f26390f381293a345c7bea190e3ad",
+                "shasum": ""
+            },
+            "require": {
+                "cagartner/phpquery": "0.9.11"
+            },
+            "time": "2020-08-06T23:35:55+00:00",
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Cagartner\\Correios\\Providers\\CorreiosServiceProvider"
+                    ],
+                    "aliases": []
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Cagartner\\Correios\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos Gartner",
+                    "email": "contato@carlosgartner.com.br"
+                }
+            ],
+            "description": "Shipping Method for Correios",
+            "support": {
+                "issues": "https://github.com/cagartner/bagisto-correios/issues",
+                "source": "https://github.com/cagartner/bagisto-correios/tree/master"
+            },
+            "install-path": "../cagartner/bagisto-correios"
+        },
+        {
+            "name": "cagartner/bagisto-pagseguro",
+            "version": "1.0.4",
+            "version_normalized": "1.0.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cagartner/bagisto-pagseguro.git",
+                "reference": "25a83fcd93831c5f3fc7ba8c4ba0b353f938ccca"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cagartner/bagisto-pagseguro/zipball/25a83fcd93831c5f3fc7ba8c4ba0b353f938ccca",
+                "reference": "25a83fcd93831c5f3fc7ba8c4ba0b353f938ccca",
+                "shasum": ""
+            },
+            "require": {
+                "pagseguro/pagseguro-php-sdk": "^6.0",
+                "symfony/serializer": "^5.0"
+            },
+            "time": "2020-06-29T20:33:32+00:00",
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Cagartner\\Pagseguro\\Providers\\PagseguroServiceProvider"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Cagartner\\Pagseguro\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos Gartner",
+                    "email": "contato@carlosgartner.com.br"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/cagartner/bagisto-pagseguro/issues",
+                "source": "https://github.com/cagartner/bagisto-pagseguro/tree/master"
+            },
+            "funding": [
+                {
+                    "url": "https://picpay.me/cagartner/20.0",
+                    "type": "custom"
+                }
+            ],
+            "install-path": "../cagartner/bagisto-pagseguro"
+        },
+        {
+            "name": "cagartner/bagisto-picpay",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cagartner/bagisto-picpay.git",
+                "reference": "7bcf196ca0c67622fe7da83aa15dc97b34181c31"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cagartner/bagisto-picpay/zipball/7bcf196ca0c67622fe7da83aa15dc97b34181c31",
+                "reference": "7bcf196ca0c67622fe7da83aa15dc97b34181c31",
+                "shasum": ""
+            },
+            "time": "2021-01-18T12:22:15+00:00",
+            "default-branch": true,
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Cagartner\\Picpay\\Providers\\PicpayServiceProvider"
+                    ]
+                }
+            },
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "Cagartner\\Picpay\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carlos Gartner",
+                    "email": "contato@carlosgartner.com.br"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/cagartner/bagisto-picpay/issues",
+                "source": "https://github.com/cagartner/bagisto-picpay/tree/master"
+            },
+            "install-path": "../cagartner/bagisto-picpay"
+        },
+        {
+            "name": "cagartner/phpquery",
+            "version": "0.9.11",
+            "version_normalized": "0.9.11.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cagartner/phpquery.git",
+                "reference": "efd7f8d32bf6d21d910f9374df91775df3639ddf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cagartner/phpquery/zipball/efd7f8d32bf6d21d910f9374df91775df3639ddf",
+                "reference": "efd7f8d32bf6d21d910f9374df91775df3639ddf",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3",
+                "sabberworm/php-css-parser": "8.3.*"
+            },
+            "time": "2019-10-25T13:34:48+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "PhpQuery\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tobiasz Cudnik",
+                    "email": "tobiasz.cudnik@gmail.com",
+                    "homepage": "https://github.com/TobiaszCudnik",
+                    "role": "Developer"
+                },
+                {
+                    "name": "didier Belot",
+                    "role": "Packager"
+                },
+                {
+                    "name": "Greg Payne",
+                    "role": "Packager"
+                }
+            ],
+            "description": "PHP5.3+ namespaced version of phpQuery with enhanced CSS support",
+            "homepage": "http://code.google.com/p/phpquery/",
+            "support": {
+                "source": "https://github.com/cagartner/phpquery/tree/0.9.11"
+            },
+            "install-path": "../cagartner/phpquery"
+        },
+        {
             "name": "codeception/codeception",
             "version": "4.1.1",
             "version_normalized": "4.1.1.0",
@@ -5260,6 +5468,54 @@
                 "serialize"
             ],
             "install-path": "../opis/closure"
+        },
+        {
+            "name": "pagseguro/pagseguro-php-sdk",
+            "version": "6.0.0",
+            "version_normalized": "6.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pagseguro/pagseguro-php-sdk.git",
+                "reference": "de63ce3d582ba5727c42d8d4e67030da9439bff6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pagseguro/pagseguro-php-sdk/zipball/de63ce3d582ba5727c42d8d4e67030da9439bff6",
+                "reference": "de63ce3d582ba5727c42d8d4e67030da9439bff6",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "lib-curl": "*",
+                "lib-openssl": "*",
+                "php": "^7.1.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.0"
+            },
+            "time": "2018-12-11T11:37:37+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "PagSeguro\\": "source/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "PagSeguro"
+                }
+            ],
+            "description": "Biblioteca de integração com o PagSeguro",
+            "support": {
+                "issues": "https://github.com/pagseguro/pagseguro-php-sdk/issues",
+                "source": "https://github.com/pagseguro/pagseguro-php-sdk/tree/6.0.0"
+            },
+            "install-path": "../pagseguro/pagseguro-php-sdk"
         },
         {
             "name": "paypal/paypal-checkout-sdk",
@@ -10143,6 +10399,109 @@
                 }
             ],
             "install-path": "../symfony/routing"
+        },
+        {
+            "name": "symfony/serializer",
+            "version": "v5.2.7",
+            "version_normalized": "5.2.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/serializer.git",
+                "reference": "3698d2611c4917d3689ff89c0a0dcaa761c8e771"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/serializer/zipball/3698d2611c4917d3689ff89c0a0dcaa761c8e771",
+                "reference": "3698d2611c4917d3689ff89c0a0dcaa761c8e771",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.5",
+                "symfony/polyfill-ctype": "~1.8",
+                "symfony/polyfill-php80": "^1.15"
+            },
+            "conflict": {
+                "phpdocumentor/reflection-docblock": "<3.2.2",
+                "phpdocumentor/type-resolver": "<1.4.0",
+                "symfony/dependency-injection": "<4.4",
+                "symfony/property-access": "<4.4",
+                "symfony/property-info": "<4.4",
+                "symfony/yaml": "<4.4"
+            },
+            "require-dev": {
+                "doctrine/annotations": "^1.10.4",
+                "doctrine/cache": "~1.0",
+                "phpdocumentor/reflection-docblock": "^3.2|^4.0|^5.0",
+                "symfony/cache": "^4.4|^5.0",
+                "symfony/config": "^4.4|^5.0",
+                "symfony/dependency-injection": "^4.4|^5.0",
+                "symfony/error-handler": "^4.4|^5.0",
+                "symfony/filesystem": "^4.4|^5.0",
+                "symfony/form": "^4.4|^5.0",
+                "symfony/http-foundation": "^4.4|^5.0",
+                "symfony/http-kernel": "^4.4|^5.0",
+                "symfony/mime": "^4.4|^5.0",
+                "symfony/property-access": "^4.4.9|^5.0.9",
+                "symfony/property-info": "^4.4|^5.0",
+                "symfony/uid": "^5.1",
+                "symfony/validator": "^4.4|^5.0",
+                "symfony/var-exporter": "^4.4|^5.0",
+                "symfony/yaml": "^4.4|^5.0"
+            },
+            "suggest": {
+                "psr/cache-implementation": "For using the metadata cache.",
+                "symfony/config": "For using the XML mapping loader.",
+                "symfony/mime": "For using a MIME type guesser within the DataUriNormalizer.",
+                "symfony/property-access": "For using the ObjectNormalizer.",
+                "symfony/property-info": "To deserialize relations.",
+                "symfony/var-exporter": "For using the metadata compiler.",
+                "symfony/yaml": "For using the default YAML mapping loader."
+            },
+            "time": "2021-04-13T14:17:49+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Serializer\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.",
+            "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/serializer/tree/v5.2.7"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "../symfony/serializer"
         },
         {
             "name": "symfony/service-contracts",

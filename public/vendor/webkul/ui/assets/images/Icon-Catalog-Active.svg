@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>Icon-Catalog-Active</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Icon-Catalog-Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g transform="translate(9.000000, 7.000000)" stroke="#0041FF" stroke-width="2">
-            <rect id="Rectangle-2" x="0" y="0" width="30" height="34"></rect>
-            <path d="M6,6 L24,6" id="Path-6"></path>
-            <path d="M6,13 L24,13" id="Path-6"></path>
-            <path d="M6,20 L24,20" id="Path-6"></path>
-            <path d="M6,27 L24,27" id="Path-6"></path>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.064mm" height="4.064mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 406.4 406.4"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#F58634;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="76.2" y="60.99" width="254" height="284.43"/>
+  <g id="_1657087326000">
+   <rect class="fil0 str0" x="123.49" y="113.73" width="159.41" height="0.66"/>
+   <rect class="fil0 str0" x="123.49" y="174.25" width="159.41" height="0.66"/>
+   <rect class="fil0 str0" x="123.49" y="232.79" width="159.41" height="0.66"/>
+   <rect class="fil0 str0" x="123.49" y="292" width="159.41" height="0.66"/>
+  </g>
+ </g>
 </svg>

@@ -347,7 +347,7 @@
     -webkit-appearance: none;
 }
 .search-filter .contorl:focus {
-    border-color: #0041ff;
+    border-color: #de4313;
 }
 .search-filter .icon-wrapper {
     border: 2px solid #c7c7c7;
@@ -592,7 +592,7 @@ a:hover,
 a:link,
 a:visited {
     text-decoration: none;
-    color: #0041ff;
+    color: #de4313;
 }
 ::-moz-selection {
     background-color: rgba(0, 64, 255, 0.6);
@@ -674,7 +674,7 @@ h5 {
     font-size: 16px;
 }
 .btn.btn-primary {
-    background: #0041ff;
+    background: #de4313;
     color: #fff;
 }
 .btn.btn-black {
@@ -767,7 +767,7 @@ h5 {
     font-size: 15px;
 }
 .dropdown-list .search-box .control:focus {
-    border-color: #0041ff;
+    border-color: #de4313;
 }
 .dropdown-list .dropdown-container {
     padding: 20px;
@@ -797,7 +797,7 @@ h5 {
     display: block;
 }
 .dropdown-list .dropdown-container ul li a:hover {
-    color: #0041ff;
+    color: #de4313;
 }
 .dropdown-list .dropdown-container ul li .checkbox {
     margin: 0;
@@ -895,9 +895,9 @@ h5 {
     padding: 6px 9px;
 }
 .pagination .page-item.active {
-    background: #0041ff;
+    background: #de4313;
     color: #fff;
-    border-color: #0041ff;
+    border-color: #de4313;
 }
 .pagination .page-item .icon {
     vertical-align: middle;
@@ -997,7 +997,7 @@ h5 {
     margin-bottom: 5px;
 }
 .control-group .control:focus {
-    border-color: #0041ff;
+    border-color: #de4313;
 }
 .control-group .control[disabled="disabled"] {
     border-color: #d3d3d3;
@@ -1119,10 +1119,10 @@ h5 {
     transition: 0.2s;
 }
 .control-group input:checked + .slider {
-    background-color: #0041ff;
+    background-color: #de4313;
 }
 .control-group input:focus + .slider {
-    box-shadow: 0 0 1px #0041ff;
+    box-shadow: 0 0 1px #de4313;
 }
 .control-group input:checked + .slider:before {
     transform: translateX(26px);
@@ -1198,7 +1198,7 @@ h5 {
     display: block;
 }
 .tabs ul li.active a {
-    border-bottom: 3px solid #0041ff;
+    border-bottom: 3px solid #de4313;
 }
 .accordian,
 accordian {
@@ -1420,7 +1420,7 @@ modal {
     background-color: #4caf50;
 }
 .badge.badge-info {
-    background-color: #0041ff;
+    background-color: #de4313;
 }
 .badge.badge-danger {
     background-color: #fc6868;

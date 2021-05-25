@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-develop',
+    'version' => 'dev-develop',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'abd7fb31e45256002f567ac1bae27a45f91c8590',
     'name' => 'bagisto/bagisto',
   ),
   'versions' => 
@@ -67,12 +67,12 @@
     ),
     'bagisto/bagisto' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-develop',
+      'version' => 'dev-develop',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'abd7fb31e45256002f567ac1bae27a45f91c8590',
     ),
     'bagisto/bagisto-package-generator' => 
     array (
@@ -271,6 +271,43 @@
         0 => '9999999-dev',
       ),
       'reference' => '9006ffc7485dd823efaedc734ceef4d92dd95110',
+    ),
+    'cagartner/bagisto-correios' => 
+    array (
+      'pretty_version' => '0.2.1',
+      'version' => '0.2.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2b817dc56b1f26390f381293a345c7bea190e3ad',
+    ),
+    'cagartner/bagisto-pagseguro' => 
+    array (
+      'pretty_version' => '1.0.4',
+      'version' => '1.0.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '25a83fcd93831c5f3fc7ba8c4ba0b353f938ccca',
+    ),
+    'cagartner/bagisto-picpay' => 
+    array (
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
+      'aliases' => 
+      array (
+        0 => '9999999-dev',
+      ),
+      'reference' => '7bcf196ca0c67622fe7da83aa15dc97b34181c31',
+    ),
+    'cagartner/phpquery' => 
+    array (
+      'pretty_version' => '0.9.11',
+      'version' => '0.9.11.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'efd7f8d32bf6d21d910f9374df91775df3639ddf',
     ),
     'codeception/codeception' => 
     array (
@@ -1083,6 +1120,15 @@
       ),
       'reference' => '943b5d70cc5ae7483f6aff6ff43d7e34592ca0f5',
     ),
+    'pagseguro/pagseguro-php-sdk' => 
+    array (
+      'pretty_version' => '6.0.0',
+      'version' => '6.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'de63ce3d582ba5727c42d8d4e67030da9439bff6',
+    ),
     'paypal/paypal-checkout-sdk' => 
     array (
       'pretty_version' => '1.0.1',
@@ -1782,6 +1828,15 @@
       array (
       ),
       'reference' => '31fba555f178afd04d54fd26953501b2c3f0c6e6',
+    ),
+    'symfony/serializer' => 
+    array (
+      'pretty_version' => 'v5.2.7',
+      'version' => '5.2.7.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3698d2611c4917d3689ff89c0a0dcaa761c8e771',
     ),
     'symfony/service-contracts' => 
     array (

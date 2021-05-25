@@ -15,7 +15,7 @@
     font-size: 20px;
     font-weight: 400;
     text-align: center;
-    color: #0041ff;
+    color: #de4313;
 }
 [class*=" rango-"],
 [class^="rango-"] {
@@ -1242,7 +1242,7 @@
     border-radius: 50%;
     position: relative;
     color: #fff;
-    background: #21a179;
+    background: #de4313;
 }
 .mini-cart-container #mini-cart {
     outline: none;
@@ -1258,7 +1258,7 @@
     min-width: 20px;
     position: absolute;
     color: #fff;
-    background: #21a179;
+    background: #de4313;
 }
 .dropdown-icon-custom:after {
     top: -5px;
@@ -1545,7 +1545,7 @@
 .account-content .account-layout .account-table-content select:focus,
 .account-content .account-layout .account-table-content textarea:active,
 .account-content .account-layout .account-table-content textarea:focus {
-    border-color: #26a37c;
+    border-color: #de4313;
 }
 .account-content .account-layout .account-table-content .address-holder {
     margin-top: 30px;
@@ -1996,8 +1996,8 @@
     -webkit-box-shadow: unset !important;
 }
 .account-content .account-layout .bottom-toolbar .pagination .page-item.active {
-    border: 1px solid #26a37c;
-    color: #26a37c !important;
+    border: 1px solid #de4313;
+    color: #de4313 !important;
 }
 .account-content
     .account-layout
@@ -2060,7 +2060,7 @@
 }
 .account-content .account-layout .sale-container .tabs ul li.active {
     cursor: default;
-    border-bottom: 2px solid #26a37c;
+    border-bottom: 2px solid #de4313;
 }
 .account-content .account-layout .sale-container .tabs-content .sale-section {
     padding: 20px 0 10px;
@@ -2302,7 +2302,7 @@
     .coupon-container
     .applied-coupon-details
     label:first-of-type {
-    color: #26a37c;
+    color: #de4313;
 }
 .checkout-process .coupon-container .rango-close {
     cursor: pointer;
@@ -2363,7 +2363,7 @@
 .custom-form input:focus,
 .custom-form select:active,
 .custom-form select:focus {
-    border-color: #26a37c;
+    border-color: #de4313;
 }
 .payment-form .payment-methods > .row,
 .payment-form .shipping-methods > .row,
@@ -2551,7 +2551,7 @@
     background-color: #f05153;
 }
 .sticker.new {
-    background-color: #26a37c;
+    background-color: #de4313;
     display: block;
 }
 #app {
@@ -2588,7 +2588,7 @@
     border-radius: 1px;
     display: inline-block;
     color: #cfcfd0;
-    background-color: #141516;
+    /* background-color: #141516; */
 }
 .sidebar {
     z-index: 1000000;
@@ -2897,8 +2897,8 @@
 }
 .vue-slider .vue-slider-dot-tooltip-inner,
 .vue-slider .vue-slider-dot-tooltip-text {
-    border-color: #26a37c !important;
-    background-color: #26a37c !important;
+    border-color: #de4313 !important;
+    background-color: #de4313 !important;
 }
 .vue-slider .vue-slider-dot-tooltip-text {
     display: block;
@@ -2924,7 +2924,7 @@
     transform: translate(-50%);
 }
 .vue-slider .vue-slider-process {
-    background-color: #26a37c !important;
+    background-color: #de4313 !important;
 }
 .full-content-wrapper > .container-fluid {
     padding: 0 !important;
@@ -2959,7 +2959,7 @@
     padding: 5px !important;
 }
 .slides-container .VueCarousel-dot--active {
-    background-color: #26a37c !important;
+    background-color: #de4313 !important;
 }
 .slides-container .VueCarousel .VueCarousel-inner {
     padding-top: 0;
@@ -2995,7 +2995,7 @@
 }
 .filter-attributes-item .filter-input input[type="text"] {
     text-align: center;
-    border: 1px solid #26a37c;
+    border: 1px solid #de4313;
     width: 30%;
     background-color: #fff;
 }
@@ -3074,8 +3074,8 @@
 }
 .pagination .page-item.active {
     font-weight: 600;
-    color: #26a37c !important;
-    border-bottom: 2px solid #26a37c;
+    color: #de4313 !important;
+    border-bottom: 2px solid #de4313;
 }
 .pagination .page-item.next .angle-left-icon,
 .pagination .page-item.next .angle-right-icon,
@@ -3244,7 +3244,7 @@
 }
 .cp-round:after {
     border-radius: 50%;
-    border-top: 6px solid #26a37c;
+    border-top: 6px solid #de4313;
     border-right: 6px solid transparent;
     border-bottom: 6px solid transparent;
     border-left: 6px solid transparent;
@@ -3266,7 +3266,7 @@
     border-radius: 2px;
     margin-bottom: 20px;
     display: inline-block;
-    border: 1px solid #0041ff;
+    border: 1px solid #de4313;
     background-color: rgba(0, 65, 255, 0.1);
 }
 .image-search-result .searched-image {
@@ -3739,13 +3739,13 @@ header #search-form > :focus {
     height: 54px;
     padding: 14px;
     font-size: 20px;
-    color: #21a179;
+    color: #de4313;
     border-radius: 50%;
     text-align: center;
     background: #fff;
     display: inline-block;
     vertical-align: middle;
-    border: 2px solid #21a179;
+    border: 2px solid #de4313;
     font: 18px josefin sans, arial;
 }
 body:after {
@@ -4462,8 +4462,8 @@ body:after {
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    border: 1px solid #247959;
-    background-color: #26a37c !important;
+    border: 1px solid #de4313;
+    background-color: #de4313 !important;
 }
 .account-content
     .account-layout
@@ -4726,7 +4726,7 @@ body:after {
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    border: 1px solid #247959;
+    border: 1px solid #de4313;
     background-color: #f5f5f5 !important;
 }
 .account-content
@@ -4868,7 +4868,7 @@ body:after {
     padding: 3px 10px;
     position: absolute;
     border-radius: 12px;
-    background-color: #26a37c;
+    background-color: #de4313;
 }
 .bg-image,
 .small-card-container .product-image {
@@ -5516,7 +5516,7 @@ button[disabled] {
     border: 1px solid transparent;
 }
 .product-detail .thumb-list .thumb-frame.active {
-    border: 1px solid #26a37c;
+    border: 1px solid #de4313;
 }
 .product-detail .thumb-list .small-card-container .thumb-frame > .product-image,
 .product-detail .thumb-list .thumb-frame > .bg-image,
@@ -5832,7 +5832,7 @@ button[disabled] {
         z-index: 10;
         border-radius: 50%;
         position: absolute;
-        background: #26a37c;
+        background: #de4313;
     }
     .main-content-wrapper
         .vc-header
@@ -6131,7 +6131,7 @@ button[disabled] {
     }
     header .vc-small-screen #search-form .selectdiv + div input {
         width: calc(100% - 40px);
-        border: 1px solid #26a37c;
+        border: 1px solid #de4313;
     }
     .carousel-products.vc-full-screen {
         display: none;
@@ -6649,7 +6649,7 @@ body.rtl header #search-form #header-search-icon {
 body.rtl header #search-form .btn-group select,
 body.rtl header #search-form .quantity select {
     border-left: 0;
-    border-right: 1px solid #26a37c;
+    border-right: 1px solid #de4313;
 }
 body.rtl header #search-form .btn-group .selectdiv select,
 body.rtl header #search-form .quantity .selectdiv select {
@@ -7270,8 +7270,8 @@ body {
     outline-offset: 0;
 }
 #top .btn-normal {
-    background: #21a179;
-    border-color: #269c77;
+    background: #de4313;
+    border-color: #fec163;
     color: #fff;
     font-weight: 600;
 }
@@ -7279,8 +7279,8 @@ body {
 #top .btn-normal:active:hover,
 #top .btn-normal:hover {
     background: #fff;
-    border-color: #21a179;
-    color: #21a179;
+    border-color: #de4313;
+    color: #de4313;
 }
 #top .btn-link {
     color: rgba(0, 0, 0, 0.83);
@@ -7454,7 +7454,7 @@ body {
     right: 0;
 }
 .dropdown-menu {
-    border-top: 3px solid #269c77;
+    border-top: 3px solid #fec163;
     border-radius: 0;
     background: #fff;
     -webkit-box-shadow: 11px 10px 17px 0 rgba(0, 0, 0, 0.21);
@@ -7463,7 +7463,7 @@ body {
 .dropdown-menu li a .dropdown-menu li a:focus,
 .dropdown-menu li a:focus,
 .dropdown-menu li a:hover {
-    background: #21a179;
+    background: #de4313;
     color: #fff;
 }
 .no-padding,
@@ -7471,8 +7471,8 @@ body {
     padding: 0 !important;
 }
 .btn-normal {
-    background: #21a179;
-    border-color: #269c77;
+    background: #de4313;
+    border-color: #fec163;
     color: #fff;
     font-weight: 600;
     border-radius: 0;
@@ -7481,20 +7481,20 @@ body {
 .btn-normal:active:hover,
 .btn-normal:hover {
     background: #fff;
-    border-color: #21a179;
-    color: #21a179;
+    border-color: #de4313;
+    color: #de4313;
 }
 .btn-secondary {
     background: #fff;
     border-color: #fff;
-    color: #21a179;
+    color: #de4313;
 }
 .btn-secondary:active:focus,
 .btn-secondary:active:hover,
 .btn-secondary:focus,
 .btn-secondary:hover {
-    background: #21a179;
-    border-color: #21a179;
+    background: #de4313;
+    border-color: #de4313;
 }
 .btn-danger {
     color: #fff;
@@ -7542,7 +7542,7 @@ header #search-form .quantity select {
     height: 100%;
     cursor: pointer;
     border-radius: 2px 0 0 2px;
-    border: 1px solid #26a37c;
+    border: 1px solid #de4313;
     border-right: 0;
     font-family: Source Sans Pro, sans-serif;
     -webkit-appearance: none;
@@ -7560,7 +7560,7 @@ header #search-form input {
     padding: 0 10px;
     line-height: 20px;
     letter-spacing: 0;
-    border: 1px solid #26a37c;
+    border: 1px solid #de4313;
     border-left: 1px solid #ccc;
 }
 .quantity header #search-form button:hover,
@@ -7650,7 +7650,7 @@ header .left-wrapper .wishlist-btn .badge-container .badge {
     min-width: 20px;
     position: absolute;
     color: hsla(0, 0%, 100%, 0.83);
-    background: #21a179;
+    background: #de4313;
 }
 header .left-wrapper .compare-btn span,
 header .left-wrapper .wishlist-btn span {
@@ -7959,7 +7959,7 @@ header .dropdown-menu-large .dropdown-footer .checkout-link {
     .product-buttons
     .add-to-cart-button
     .btn-primary {
-    border: #26a37c !important;
+    border: #de4313 !important;
     border-radius: 0;
 }
 .popular-products
@@ -7969,7 +7969,7 @@ header .dropdown-menu-large .dropdown-footer .checkout-link {
     .add-to-cart-button
     .addtocart {
     text-transform: uppercase;
-    background-color: #26a37c;
+    background-color: #de4313;
 }
 .customer-name {
     display: table-cell;
@@ -7978,7 +7978,7 @@ header .dropdown-menu-large .dropdown-footer .checkout-link {
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
-    background: #21a179;
+    background: #de4313;
     color: #fff;
     padding: 16px;
     font: 18px josefin sans, arial;
@@ -8041,15 +8041,15 @@ i.within-circle {
     width: 71px;
 }
 .btn-new-customer-login {
-    color: #26a37c !important;
+    color: #de4313 !important;
     font-size: 16px;
     padding: 11px;
     text-decoration: none !important;
 }
 .btn-dark-green {
     color: #fff;
-    background-color: #26a37c;
-    border-color: #26a37c;
+    background-color: #de4313;
+    border-color: #de4313;
     height: 36px;
     border-radius: 0 !important;
 }

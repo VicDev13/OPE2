@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>Icon-Dashboard-Active</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Icon-Dashboard-Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g transform="translate(10.000000, 1.000000)">
-            <rect id="Rectangle-2" stroke="#0041FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="0" y="9" width="28" height="28"></rect>
-            <circle id="Oval" fill="#FFFFFF" cx="28" cy="9" r="9"></circle>
-            <circle id="Oval" stroke="#0041FF" stroke-width="2" cx="28" cy="9" r="4"></circle>
-            <polyline id="Path-5" stroke="#0041FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="7 26.8225098 10.6303711 22.1315918 15.5270996 25.3210449 21.5498047 18"></polyline>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.064mm" height="4.064mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 406.4 406.4"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#F58634;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="250.05,79.69 91.96,77.05 90.64,315.84 326.78,313.85 328.77,159.73 "/>
+  <polyline class="fil0 str0" points="146.03,238.95 181.75,194.63 221.76,222.74 273.36,153.95 "/>
+  <circle class="fil0 str0" cx="312.61" cy="94.93" r="42.33"/>
+ </g>
 </svg>

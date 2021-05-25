@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
-    <title>Icon-Customers-Active</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Icon-Customers-Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g transform="translate(9.000000, 8.000000)" id="Combined-Shape" stroke="#0041FF" stroke-width="2">
-            <path d="M0.0694092808,30.8793785 C0.789639214,23.4815617 7.02613841,17.6997284 14.6130571,17.6997284 C22.1999758,17.6997284 28.436475,23.4815617 29.156705,30.8793785 L0.0694092808,30.8793785 Z M14.5,13.6997284 C10.9101491,13.6997284 8,10.7895793 8,7.19972838 C8,3.60987751 10.9101491,0.699728384 14.5,0.699728384 C18.0898509,0.699728384 21,3.60987751 21,7.19972838 C21,10.7895793 18.0898509,13.6997284 14.5,13.6997284 Z"></path>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.064mm" height="4.064mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 406.4 406.4"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#F58634;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1692286621744">
+   <circle class="fil0 str0" cx="203.2" cy="145.07" r="45.97"/>
+   <path class="fil0 str0" d="M203.2 212.05c52.97,0 95.91,38.5 95.91,85.99 0,3.13 -0.2,6.22 -0.56,9.26l-190.7 0c-0.36,-3.04 -0.56,-6.13 -0.56,-9.26 0,-47.49 42.94,-85.99 95.91,-85.99z"/>
+  </g>
+ </g>
 </svg>
